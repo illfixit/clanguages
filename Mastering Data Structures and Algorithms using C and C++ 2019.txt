@@ -2,7 +2,7 @@ Mastering Data Structures and Algorithms using C and C++ 2019
 
 01 Before we Start
 Start
-
+Finish
 
 02 Essential C and C++ Concepts
 03 Required Setup for Programming
